@@ -3,11 +3,3 @@
 = Introduction =
 一个如果使用0.2版的ris-autoinst的视频：
 http://www.boobooke.com/v/bbk1432/
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
